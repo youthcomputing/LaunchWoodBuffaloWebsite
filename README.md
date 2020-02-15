@@ -1,4 +1,4 @@
-# LaunchWoodBuffalo Website
+# Launch Wood Buffalo Website
 
 https://launchwoodbuffalo.com/
 
@@ -9,4 +9,5 @@ Launch Wood Buffalo is Fort McMurray's innovation conference including a communi
 ##### Template
 
 Evento - designed & developed by Colorlib
+
 https://colorlib.com/wp/template/evento/
